@@ -1,0 +1,5 @@
+B001,Effective Java,Joshua Bloch,Programming,5,5
+B004,Introduction to Algorithms,Thomas H. Cormen,Computer Science,4,4
+B005,The Pragmatic Programmer,Andy Hunt,Programming,3,3
+B002,Clean Code,Robert C. Martin,Software Engineering,3,3
+B003,Design Patterns,Erich Gamma,Software Engineering,2,2
